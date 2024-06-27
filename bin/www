@@ -4,8 +4,8 @@
  * Module dependencies.
  */
 
-var app = require('../app');
-var debug = require('debug')('dpsi-backend-24:server');
+var app = require('../App');
+var debug = require('debug')('your-app-name:server');
 var http = require('http');
 
 /**
